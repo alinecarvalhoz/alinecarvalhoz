@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/alinecarvalhoz">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinecarvalhoz&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=solarized-light"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinecarvalhoz&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,4 +19,4 @@
   <a href = "mailto:alinecarvalho.2002@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-carvalho-b94931207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rafaballerini/alinecarvalhoz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/alinecarvalhoz/alinecarvalhoz/blob/output/github-contribution-grid-snake.svg)

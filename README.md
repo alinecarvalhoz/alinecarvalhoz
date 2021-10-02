@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/alinecarvalhoz">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinecarvalhoz&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=solarized-light"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinecarvalhoz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=omni"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

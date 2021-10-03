@@ -1,9 +1,4 @@
 ### Bem vindxs! Eu sou a Aline Carvalho ❤️
-
-<div align="center">
-  <a href="https://github.com/alinecarvalhoz">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=omni"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

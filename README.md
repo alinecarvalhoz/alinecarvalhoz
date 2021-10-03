@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/alinecarvalhoz">
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=omni"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhoz&layout=compact&langs_count=7&theme=omni"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,9 +10,7 @@
   <img align="center" alt="Aline-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  <br/><br/>
-  <br/><br/>
-  ##
+   ##
   
   <div> 
   <a href="https://instagram.com/aline_z12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
